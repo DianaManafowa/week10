@@ -1,0 +1,19 @@
+.gallery {
+    text-align:left; 
+    margin-top: 50px;    
+}
+.img1 {
+    max-width: 500px;
+    max-height: 300px;
+    border: 2px solid #a23535;
+    display: none;
+}
+.img2 {
+    max-width: 500px;
+    max-height: 300px;
+    border: 2px solid #a23535;
+}
+
+button:hover {
+    background-color: #45a049;
+}
